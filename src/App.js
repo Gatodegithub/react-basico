@@ -17,6 +17,8 @@ import AjaxHooks from "./components/AjaxHooks";
 import Referencias from "./components/Referencias";
 import HooksPersonalizados from "./components/HooksPersonalizados";
 import Formularios from "./components/Formularios";
+import Estilos from "./components/Estilos";
+import ComponentesEstilizados from "./components/ComponentesEstilizados";
 
 
 function App() {
@@ -95,6 +97,10 @@ function App() {
           <Referencias />
           <hr />
           <Formularios />
+          <hr />
+          <Estilos />
+          <hr />
+          <ComponentesEstilizados />
         </section>
       </header>
     </div>
